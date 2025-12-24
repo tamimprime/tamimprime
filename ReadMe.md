@@ -27,16 +27,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/md-tamim-rahman-fatmi-b754462a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-tamim-rahman-fatmi-b754462a4" height="30" width="40" /></a>
-  
+<a href="https://linkedin.com/in/md-tamim-rahman-fatmi-b754462a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-tamim-rahman-fatmi-b754462a4" height="30" width="40" /></a> 
 <a href="https://stackoverflow.com/users/md-tamim-rahman-fatmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="md-tamim-rahman-fatmi" height="30" width="40" /></a>
-
 <a href="https://kaggle.com/mdtamimrahmanfatmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mdtamimrahmanfatmi" height="30" width="40" /></a>
-
 <a href="https://fb.com/tamimprime" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tamimprime" height="30" width="40" /></a>
-
 <a href="https://instagram.com/tamimprime" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tamimprime" height="30" width="40" /></a>
-
 <a href="https://discord.gg/83340" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="83340" height="30" width="40" /></a>
 
 </p>
