@@ -13,7 +13,7 @@
 
 - 🤝 A C# Project on .Net Framework [Office_Management_System](https://github.com/tamimprime/Office_Management_System)
 
-- 🤝 A C++ Graphics project with OpenGL and GLUT [2D Game]([https://github.com/tamimprime/Python-Project](https://github.com/tamimprime/Computer-Graphics))
+- 🤝 A C++ Graphics project with OpenGL and GLUT [2D Game](https://github.com/tamimprime/Computer-Graphics)
 
 - 🤝 Introduction to Database Project [BANK MANAGEMENT SYSTEM](https://github.com/tamimprime/Introduction-to-Database-Project)
 
